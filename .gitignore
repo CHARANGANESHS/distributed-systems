@@ -162,3 +162,7 @@ cython_debug/
 #.idea/
 
 slides/
+
+
+# Include .class files in the gitignore
+*.class
